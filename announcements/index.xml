@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcements on ProgTeam@NYU</title>
+    <link>https://hoooao2.github.io/announcements/</link>
+    <description>Recent content in Announcements on ProgTeam@NYU</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 27 Dec 2022 07:55:22 -0500</lastBuildDate><atom:link href="https://hoooao2.github.io/announcements/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Winter Practice</title>
+      <link>https://hoooao2.github.io/announcements/wintersession/</link>
+      <pubDate>Tue, 27 Dec 2022 07:55:22 -0500</pubDate>
+      
+      <guid>https://hoooao2.github.io/announcements/wintersession/</guid>
+      <description>Hi everyone,
+Hope everyone&amp;rsquo;s final season went well! We&amp;rsquo;ll be holding our first practice session for the ICPC online soon. We&amp;rsquo;re planning on having a 5-hour session about every 10 days, and our first practice contest will be at 2:00pm EST this Wednesday the 28th.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to ProgTeam!</title>
+      <link>https://hoooao2.github.io/announcements/welcome/</link>
+      <pubDate>Wed, 28 Sep 2022 10:05:49 +1000</pubDate>
+      
+      <guid>https://hoooao2.github.io/announcements/welcome/</guid>
+      <description>Hi everyone,
+The progteam is back! We will be hosting 1-2 hour sessions on Fridays at 5pm at 102 CIWW. If you’re interested in competitive programming, learning advanced algorithms, preparing for tech interviews, or simply enjoy chatting with peers also interested in programming, please join our new Discord server https://discord.com/invite/SFeawGptjJ and join our sessions on Fridays!</description>
+    </item>
+    
+  </channel>
+</rss>
